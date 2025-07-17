@@ -42,7 +42,7 @@ npm install
 ```bash
 npm run start:dev
 ```
-- The backend runs on [http://localhost:3000](http://localhost:3000) (or change the port in `main.ts`).
+- The backend runs on [http://localhost:4000](http://localhost:4000) (or change the port in `main.ts`).
 
 ### 3. **Frontend Setup (Next.js)**
 ```bash
